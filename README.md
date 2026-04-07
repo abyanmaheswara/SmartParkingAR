@@ -206,5 +206,5 @@ CREATE TABLE sensor_logs (
 ## 👨‍💻 Author
 
 **Abyan Maheswara** — Politeknik Manufaktur Bandung  
-Program Studi Teknologi Manufaktur & IIoT  
+Program Studi Teknologi Rekayasa Informatika  
 UTS Mata Kuliah Sistem Intelijen — 2026
