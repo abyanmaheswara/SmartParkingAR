@@ -1,0 +1,23 @@
+# ninja log v5
+39	6175	7971562090108387	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ebccf1532730b1ac
+48	6197	7971562090376691	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4bea22a1dee9237c
+9442	9611	7971562125038356	D:/UnityProjects/SmartParkingAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2o5n6w2o/obj/arm64-v8a/libgame.so	e0fbd095db9dcf7b
+1	6238	7971562090427063	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bc6ef1c1e08be8a7
+6184	9022	7971562119121759	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f8e13c23c80f3a48
+6861	7740	7971562105728997	D:/UnityProjects/SmartParkingAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2o5n6w2o/obj/arm64-v8a/libswappywrapper.so	84b258b1e709745d
+12	6546	7971562093652056	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b06af302dd4d143e
+6239	6861	7971562097295846	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	830c6cbdb2c153df
+22	7441	7971562103002118	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8d06cb7789b80228
+31	7158	7971562099910511	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	bc5050cc964a9e93
+6197	9441	7971562123299375	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1db38c9702a7cd83
+37	6780	7972006838202480	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4bea22a1dee9237c
+66	6794	7972006838264735	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bc6ef1c1e08be8a7
+132	6806	7972006838799497	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f8e13c23c80f3a48
+111	6957	7972006840168093	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b06af302dd4d143e
+6807	7772	7972006848435776	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	830c6cbdb2c153df
+125	8013	7972006850116988	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	bc5050cc964a9e93
+57	8539	7972006855397800	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8d06cb7789b80228
+7772	9168	7972006860845794	D:/UnityProjects/SmartParkingAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2o5n6w2o/obj/arm64-v8a/libswappywrapper.so	84b258b1e709745d
+6781	10257	7972006873569016	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ebccf1532730b1ac
+6794	10661	7972006877598413	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1db38c9702a7cd83
+10662	10912	7972006880125181	D:/UnityProjects/SmartParkingAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2o5n6w2o/obj/arm64-v8a/libgame.so	e0fbd095db9dcf7b
